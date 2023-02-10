@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Final_Project</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_age">Age</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_profile">My Profile</string>
+    <string name="nav_password">Change Password</string>
+    <string name="nav_sign_out">Sign Out</string>
+
+    <string name="nav_drawer_open">Open nav</string>
+    <string name="nav_drawer_close">Close nav</string>
+    <string name="error">Error</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="notification">Notification</string>
+    <string name="string_authenticate">You want to exit ?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="can_not_create_account">Can not create new account</string>
+    <string name="invalid_account">Invalid Account</string>
+    <string name="error_confirm_pass">Please re-enter the password.</string>
+    <string name="username_exists">Username Exits</string>
+    <string name="update_failed">Update Failed</string>
+    <string name="update_success">Update Success</string>
+    <string name="game_over">Wrong !!</string>
+    <string name="congratulations">Congratulations</string>
+</resources>
